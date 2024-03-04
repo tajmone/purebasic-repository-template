@@ -8,13 +8,12 @@
 
 ## PureBasic Files
 ##################
-[attr]PureBasic text linguist-language=PureBasic gitlab-language=PureBasic
-*.cfg   text linguist-generated=true gitlab-generated=true
-*.pb    PureBasic
-*.pbf   PureBasic
-*.pbi   PureBasic
-*.pbp   linguist-language=XML linguist-generated=true
-*.pbp   gitlab-language=XML gitlab-generated=true
+*.cfg   text linguist-generated=true      gitlab-generated=true
+*.pb    text linguist-language=PureBasic  gitlab-language=PureBasic
+*.pbf   text linguist-language=PureBasic  gitlab-language=PureBasic
+*.pbi   text linguist-language=PureBasic  gitlab-language=PureBasic
+*.pbp   text linguist-language=XML linguist-generated=true
+*.pbp   text gitlab-language=XML gitlab-generated=true
 
 
 ## Shell Scripts
